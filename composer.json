@@ -1,0 +1,17 @@
+{
+    "name": "adremis/hw2",
+    "autoload": {
+        "psr-4": {
+            "Adremis\\Hw2\\": "src/",
+            "classes\\": "classes/",
+            "user\\": "user/"
+        }
+    },
+    "authors": [
+        {
+            "name": "adremis",
+            "email": "adremis.ak@gmail.com"
+        }
+    ],
+    "require": {}
+}
